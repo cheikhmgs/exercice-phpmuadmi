@@ -1,0 +1,12 @@
+
+
+REQUETES TRES FACILES:
+
+1-SELECT * FROM FILM.TABLES
+2 DESCRIBE films
+3 SELECT TITRE_FILMS FROM films
+4 select* FROM films where genre is null
+5 select *from films limit 10 from 2000
+
+
+bonjour j'ai tenter d'installer wamp easyphp xampp sans succes 
